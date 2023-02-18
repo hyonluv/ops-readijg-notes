@@ -1,2 +1,2 @@
 # ops-reading-notes
-this is my collection of notes for ops class
+## this is also where my code challenges are stored from ops 201d6 
